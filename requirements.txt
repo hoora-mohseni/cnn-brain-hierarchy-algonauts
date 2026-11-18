@@ -1,0 +1,14 @@
+# Written for Google Colab (Python 3, GPU runtime); versions not pinned in the original project.
+torch
+torchvision
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+nibabel
+nilearn
+opencv-python
+decord
+Pillow
+tqdm

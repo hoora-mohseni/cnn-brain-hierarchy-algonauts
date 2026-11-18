@@ -1,0 +1,25 @@
+# Algonauts 2021 data must not be redistributed (dataset terms of use)
+participants_data*/
+participants_data*.zip
+AlgonautsVideos*/
+*.mp4
+*.nii
+*.nii.gz
+
+# Generated outputs / model weights
+activations_*/
+prediction/
+*.pth
+*.pt
+*.pkl
+full_track.zip
+mini_track.zip
+
+# Python / Jupyter / OS
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+~$*
